@@ -9,7 +9,7 @@ const SignIn = () => {
   };
   return (
     <div>
-      <h1>Chat Application by Abhas K</h1>
+      <h1 className="alert-msg">Chat Application by Abhas K</h1>
       <h1 className="alert-msg">This Application isnt mobile responsive...</h1>
       <Button
         variant="contained"
