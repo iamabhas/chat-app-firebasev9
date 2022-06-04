@@ -1,4 +1,4 @@
-# Chat Application using react , firebase v9 and material ui ( Not mobile responsive )
+# Chat Application using react , firebase v9 and material ui
 
 # Visit site : https://chatappbyabhask.netlify.app/
 
